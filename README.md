@@ -22,7 +22,11 @@ Live Demo at: https://oneoceangroup.github.io/lrds-tech-career-track/
 2. Do your changes
    1. ideally use a markdown editor to update each different levels (I’m using [Typora](https://typora.io/))
 3. Push your branch and open a Pull-Request
-4. When the PR is approved, then the merge triggers the build to Github Pages
+4. When the PR is approved, update the `gh-pages` branch (until we found a way to make this automatically)
+   1. `git checkout gh-pages`
+   2. `git rebase master`
+   3. `git push origin gh-pages`
+
 
 
 
