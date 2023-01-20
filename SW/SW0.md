@@ -1,6 +1,9 @@
-# SW - Intern Software Developer (level 0)
-
-> **I deliver high quality code with direction from the team<br />**
+---
+layout: page
+title: SW0 - Software Developer (level 0)
+shortTitle: SW0
+roleDescription: I deliver high quality code with direction from the team
+---
 
 | Extent of influence<br />                                                                                                      | Autonomy<br />                                               | Area of Ownership<br />                                      |
 |:-------------------------------------------------------------------------------------------------------------------------------| :----------------------------------------------------------- | ------------------------------------------------------------ |

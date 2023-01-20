@@ -24,10 +24,8 @@ Live Demo at: https://oneoceangroup.github.io/lrds-tech-career-track/
 3. Push your branch and open a Pull-Request
 4. When the PR is approved, update the `gh-pages` branch (until we found a way to make this automatically)
    1. `git checkout gh-pages`
-   2. `git rebase master`
+   2. `git rebase main`
    3. `git push origin gh-pages`
-
-
 
 
 ## TO DO: 
