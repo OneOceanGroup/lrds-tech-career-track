@@ -5,10 +5,10 @@ shortTitle: SW3
 roleDescription: I independently identify and deliver software solutions through a set of milestones spanning a specific product focus or a multi-component system
 ---
 
-| Extent of influence<br />                                    | Autonomy<br />                                               | Area of Ownership<br />                                      |
-| :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+|                  Extent of influence<br />                   |                        Autonomy<br />                        | Area of Ownership<br />                                      |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
 | <img src="./../assets/Influence.png" alt="influence" style="height: 200px; align: center" /> | <img src="./../assets/Autonomy.png" alt="Autonomy" style="height: 200px; align: center" /> | <img src="./../assets/Ownership.png" alt="ownership" style="height: 200px; align: center" /> |
-| Business impact and organizational reach                     | What level of autonomy is expected for that level            | Technical or organizational levers the individual can exercise there ownership to achieve business impact |
+|         **Business impact and organizational reach**         |    **What level of autonomy is expected for that level**     | **Technical or organizational levers the individual can exercise there ownership to achieve business impact** |
 | ![extent3](./..\assets\level3\extent3.png)<br />I’m involved and consulted in squad’s decisions. | ⭐⭐⭐<br />I’m autonomous on **areas I know well.** **Feedback** from more senior people is **sometimes needed** | **Craft**<br />Stabilizing<br />**Technical Strategy**<br />I understand my team’s strategy and give my opinion<br />**Project Leadership**<br />I define and deliver well-scoped milestones for a project. I may de a technical lead for projects on my team<br />**Innovation**<br />I bring ideas that I have to more seniors members of the team and I am leveraging my craft to unleash them (ex. Friday afternoons)<br />**Mentoring**<br />Mentoring is part of my day to day. I serve as a role model for other teammates<br />**Product/Domain expertise**<br />Understand basics of parts of my product/domain |
 
 ## 🏆Results
