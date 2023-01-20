@@ -32,6 +32,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Theme settings
+minima:
+  skin: dark
+
 # server config options
 livereload: true
 
