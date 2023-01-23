@@ -5,9 +5,12 @@
  * Tables
  */
 table {
-  tr {
+	tr {
     &:nth-child(even) {
       background-color: inherit;
     }
   }
+	th {
+	    background: #EFF7FE;
+		}
 }
