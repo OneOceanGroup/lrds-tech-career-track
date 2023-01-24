@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/oo-custom-variables.scss` to override variable defaults)
+
+/**
+ * Tables
+ */
+table {
+	tr {
+    &:nth-child(even) {
+      background-color: inherit;
+    }
+  }
+	th {
+	    background: #EFF7FE;
+		}
+}
+
