@@ -13,11 +13,11 @@ roleDescription: I deliver lots of high quality production-ready code with direc
 
 ## 🏆Results
 
-| **Responsibility**  | **Key Behaviours**|
-| :------------------- | :------------------------------------------------------------ |
-| **Impact**| I work with my manager to prioritize tasks that add the most value and deliver high-quality results for my customer<br />I understand and effectively participate in the core processes of my team (planning, on-call rotations, bug triage, metrics review, etc) |
-| **Ownership**| I follow through on my commitments, take responsibility for my work, and deliver my work on time. <br />I ask questions to clarify expectations I own my failures and learn from them |
-| **Decision Making**|I escalate to my manager when I get stuck and reflect on ways that I can improve from my mistakes|
+| **Responsibility**  | **Key Behaviours**                                                                                                                                                                                                                                                                                 |
+| :------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Impact**| <ul><li>I work with my manager to prioritize tasks that add the most value and deliver high-quality results for my customer </li></ul> <ul><li>I understand and effectively participate in the core processes of my team (planning, on-call rotations, bug triage, metrics review, etc) </li></ul> |
+| **Ownership**| <ul><li> I follow through on my commitments, take responsibility for my work, and deliver my work on time </li></ul> <ul><li> I ask questions to clarify expectations I own my failures and learn from them </li></ul>                                                                             |
+| **Decision Making**| <ul><li> I escalate to my manager when I get stuck and reflect on ways that I can improve from my mistakes </li></ul>                                                                                                                                                                                         |
 
 ## 🌟Direction
 
