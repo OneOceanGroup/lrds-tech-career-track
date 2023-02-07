@@ -22,3 +22,42 @@ table {
 		}
 }
 
+// Badges for skills
+.oo-badge {
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding: 2px 8px;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+
+.oo-gd-blue {
+    background: linear-gradient(180deg, rgba(0,212,255,1) 40%, rgba(2,0,36,0.5) 100%);
+}
+
+.oo-gd-yellow {
+    color: #000;
+    background: linear-gradient(180deg, rgba(254,255,0,1) 40%, rgba(2,0,36,0.5) 100%);
+}
+
+.oo-gd-red {
+    background: linear-gradient(180deg, rgba(255,0,0,1) 40%, rgba(2,0,36,0.5) 100%);
+}
+
+.oo-gd-green {
+    color: #000;
+    background: linear-gradient(180deg, rgba(0,255,136,1) 40%, rgba(2,0,36,0.5) 100%);
+}
+
+.oo-gd-orange {
+    background: linear-gradient(180deg, rgba(246,140,0,1) 40%, rgba(2,0,36,0.5) 100%);
+}
+
+.oo-gd-grey {
+    background: linear-gradient(180deg, rgba(186,182,182,1) 40%, rgba(108,108,108,1) 100%);
+}
+
+
