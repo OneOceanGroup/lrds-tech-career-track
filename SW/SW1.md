@@ -16,9 +16,9 @@ roleDescription: I deliver lots of high quality production-ready code with direc
 
 | **Responsibility**  | **Key Behaviours**                                                                                                                                                                                                                                                                                 |
 | :------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Impact**| I work with my Tech Lead to prioritize tasks that add the most value and deliver high-quality results for my product<br />I understand and effectively participate in the core agile processes and ceremonies of my squad. |
-| **Ownership**       | I follow through on my commitments, take responsibility for my work, and deliver my work on time </li></ul> <ul><li> I ask questions to clarify expectations I own my failures and learn from them |
-| **Decision Making**| <ul><li> I escalate to my manager when I get stuck and reflect on ways that I can improve from my mistakes </li></ul>                                                                                                                                                                                         |
+| **Impact**| {::nomarkdown}<ul><li>I work with my Tech Lead to prioritize tasks that add the most value and deliver high-quality results for my product<br /><li>I understand and effectively participate in the core agile processes and ceremonies of my squad.</li></ul>{:/} |
+| **Ownership**       | {::nomarkdown}<ul><li>I follow through on my commitments, take responsibility for my work, and deliver my work on time <br /><li> I ask questions to clarify expectations I own my failures and learn from them</li></ul>{:/} |
+| **Decision Making**| {::nomarkdown}<ul><li> I escalate to my manager when I get stuck and reflect on ways that I can improve from my mistakes </li></ul>{:/}                                                                                                                                                             |
 
 ## 🌟Direction
 
