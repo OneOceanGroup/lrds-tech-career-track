@@ -30,7 +30,6 @@ url: "http://oneoceangroup.github.io" # the base hostname & protocol for your si
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-spaceship
 
 # Theme settings
 minima:
