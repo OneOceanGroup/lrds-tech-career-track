@@ -17,7 +17,7 @@ roleDescription: I deliver high quality code with direction from the team
 | :------------------- |:-------------------|
 | **Impact**| {::nomarkdown}<ul><li>I work with my mentor to prioritize tasks that add the most value for my progression while delivering results for my product</li></ul>{:/} |
 | **Ownership**| {::nomarkdown}<ul><li>I follow through on my Internship project, leanr to take responsibility for my work, and deliver my project on time<br /><li>I ask questions to clarify expectations<br /><li>I own my failures and learn from them</li></ul>{:/} |
-| **Decision Making**| {::nomarkdown}<ul><li>TODO</li></ul>{:/} |
+| **Decision Making**| {::nomarkdown}<ul><li> I escalate to my Lead when I get stuck and reflect on ways that I can improve from my mistakes </li></ul>{:/} |
 
 ## 🌟Direction
 
