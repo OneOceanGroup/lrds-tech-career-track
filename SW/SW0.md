@@ -23,22 +23,22 @@ roleDescription: I deliver high quality code with direction from the team
 
 | **Responsibility**       | **Key Behaviours** |
 | :----------------------- |:-------------------|
-| **Agility / Innovation** | TODO               |
+| **Agility / Innovation** | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                 |
 
 ## 🌳Talent
 
 | **Responsibility**  | **Key Behaviours** |
 | :------------------ |:-------------------|
-| **Personal growth** | TODO               |
-| **Hiring**          | TODO               |
+| **Personal growth** | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                 |
+| **Hiring**          | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                 |
 
 ## 🌳Culture
 
-| **Responsibility**        | **Key Behaviours** |
-| :------------------------ |:-------------------|
-| **Collaboration**         | TODO               |
-| **Organizational health** | TODO               |
-| **Communication**         | TODO               |
+| **Responsibility**        | **Key Behaviours**                        |
+| :------------------------ |:------------------------------------------|
+| **Collaboration**         | {::nomarkdown}<ul><li>TODO </li></ul>{:/} |
+| **Organizational health** | {::nomarkdown}<ul><li>TODO </li></ul>{:/} |
+| **Communication**         | {::nomarkdown}<ul><li>TODO </li></ul>{:/} |
 
 ## ⌨️Craft
 
@@ -46,4 +46,4 @@ roleDescription: I deliver high quality code with direction from the team
 
 | **Responsibility** | **Key Behaviours** |
 | :----------------- |--------------------|
-| **Code Fluency**   | TODO               |
+| **Code Fluency**   | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                |
