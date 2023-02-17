@@ -1,8 +1,10 @@
 ---
 layout: page
-title: SW1 - Software Developer (level 1)
-shortTitle: SW1
+title: SW1 - Software Developer
+id: SW1
 roleDescription: I deliver lots of high quality production-ready code with direction from the team
+previous_page: SW0
+next_page: SW2
 ---
 
 |                  Extent of influence<br />                   |                        Autonomy<br />                        | Area of Ownership<br />                                      |

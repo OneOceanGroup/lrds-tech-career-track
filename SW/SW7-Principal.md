@@ -1,8 +1,9 @@
 ---
 layout: page
-title: SW7 - Principal Software Developer (level 7)
-shortTitle: SW7
+title: SW7 - Principal Software Developer
+id: SW7
 roleDescription: I deliver results against either a portfolio of strategic company level business objectives (or keys component of the mission) or a single strategic objective with significant complexity
+previous_page: SW6
 ---
 
 |                  Extent of influence<br />                   |                        Autonomy<br />                        | Area of Ownership<br />                                      |

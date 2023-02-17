@@ -1,8 +1,10 @@
 ---
 layout: page
-title: SW6 - Partner Software Developer (level 6)
-shortTitle: SW6
+title: SW6 - Partner Software Developer
+id: SW6
 roleDescription: I deliver results against a strategic company-level business objective or key component of the mission
+previous_page: SW5
+next_page: SW7
 ---
 
 |                  Extent of influence<br />                   |                        Autonomy<br />                        | Area of Ownership<br />                                      |

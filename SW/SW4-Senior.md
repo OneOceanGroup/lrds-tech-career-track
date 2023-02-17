@@ -1,8 +1,10 @@
 ---
 layout: page
-title: SW4 - Senior Software Developer (level 4)
-shortTitle: SW4
+title: SW4 - Senior Software Developer
+id: SW4
 roleDescription: I autonomously deliver ongoing business impact across a team, product capability, or technical system
+previous_page: SW3
+next_page: SW5
 ---
 
 |                  Extent of influence<br />                   |                        Autonomy<br />                        | Area of Ownership<br />                                      |

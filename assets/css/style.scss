@@ -1,25 +1,76 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Required frontmatter to ensure Jekyll processes this page
 ---
+
+@import "vendor/tailwind";
+@import "garden";
+{%- if site.search_enabled -%}
+@import "search";
+@import "main";
+{%- endif %}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative;
+
+  &:hover::before {
+    display: inline-block;
+    content: ' ';
+    background-image: url('{{ "/assets/images/link-fill.svg" | relative_url }}');
+    background-size: 16px 16px;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: calc(50% - 8px);
+    left: -20px;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}
+
+h1:hover::before {
+  background-size: 18px 18px;
+  width: 18px;
+  height: 18px;
+  top: calc(50% - 9px);
+  left: -22px;
+}
+
+.heading_link {
+  @extend .text-grey-800;
+  @extend .no-underline;
+  @extend .hover\:no-underline;
+}
+
+.role {
+    background: #e7f2fa; 
+    padding: 12px; 
+    border-left: 10px solid #6AB0DE;
+}
+
 
 // Width of the content area
 $content-width:    1000px !default;
-
-@import "minima";
 
 
 /**
  * Tables
  */
 table {
-	tr {
+  tr {
     &:nth-child(even) {
       background-color: inherit;
     }
   }
-	th {
-	    background: #EFF7FE;
-		}
+  th {
+      background: #EFF7FE;
+    }
 }
 
 // Badges for skills

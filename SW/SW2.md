@@ -1,8 +1,10 @@
 ---
 layout: page
-title: SW2 - Software Developer (level 2)
-shortTitle: SW2
+title: SW2 - Software Developer
+id: SW2
 roleDescription: I am prolific at delivering resilient and sustainable software projects from design to implementation and rollout
+previous_page: SW1
+next_page: SW3
 ---
 
 |                  Extent of influence<br />                   |                        Autonomy<br />                        | Area of Ownership<br />                                      |
