@@ -26,22 +26,22 @@ next_page: SW2
 
 | **Responsibility**       | **Key Behaviours**                                           |
 | :----------------------- | :----------------------------------------------------------- |
-| **Agility / Innovation** | I'm open to and act upon feedback from my manager and peers<br/>I'm gaining self-awareness about my strengths and areas for development<br/>I have a high standard of excellence for my work |
+| **Agility / Innovation** | {::nomarkdown}<ul><li>I'm open to and act upon feedback from my manager and peers<br/><li>I'm gaining self-awareness about my strengths and areas for development<br /><li>I have a high standard of excellence for my work</li></ul>{:/} |
 
 ## 🌳Talent
 
-| **Responsibility**  | **Key Behaviours**                                           |
-| :------------------ | :----------------------------------------------------------- |
-| **Personal growth** | I share new ideas and can adapt my work when circumstances change |
-| **Hiring**          | I am learning to interview and assess candidates to help us build a diverse and talented team. I consistently provide timely, detailed, and evidence-based interview feedback.<br/>I am able to represent my team’s initiatives and goals to candidates in a compelling way |
+| **Responsibility**  | **Key Behaviours**                                                                                                                                                                                                                                                                                                              |
+| :------------------ |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Personal growth** | {::nomarkdown}<ul><li>I share new ideas and can adapt my work when circumstances change</li></ul>{:/}                                                                                                                                                                                                                           |
+| **Hiring**          | {::nomarkdown}<ul><li>I am learning to interview and assess candidates to help us build a diverse and talented team. I consistently provide timely, detailed, and evidence-based interview feedback<br /><li>I am able to represent my team’s initiatives and goals to candidates in a compelling way</li></ul>{:/}     |
 
 ## 🌳Culture
 
-| **Responsibility**        | **Key Behaviours**                                           |
-| :------------------------ | :----------------------------------------------------------- |
-| **Collaboration**         | I can effectively collaborate to get work done<br/>I work with my manager to manage conflict with empathy in mind |
-| **Organizational health** | I listen to different perspectives and I remove biases from my words and actions <br/>I practice the Dropbox Diversity Commitments on a regular basis |
-| **Communication**         | I write and speak clearly<br/>I listen to understand others and ask clarifying questions<br/>I share relevant information on my project including difficult task-level trade-offs that impact the product to my manager and team (including product/business partners). |
+| **Responsibility**        | **Key Behaviours**                                                                                                                                                                                                                                                      |
+| :------------------------ |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Collaboration**         | {::nomarkdown}<ul><li>I can effectively collaborate to get work done<br /><li>I work with my manager to manage conflict with empathy in mind  </li></ul>{:/}                                                                                                                                   |
+| **Organizational health** | {::nomarkdown}<ul><li>I listen to different perspectives and I remove biases from my words and actions<br /><li>I practice the LRDS Diversity Commitments on a regular basis   </li></ul>{:/}                                                                                                                    |
+| **Communication**         | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>I share relevant information on my project including difficult task-level trade-offs that impact the product to my manager and team (including product/business partners). </li></ul>{:/}    |
 
 ## ⌨️Craft
 
@@ -49,4 +49,4 @@ next_page: SW2
 
 | **Responsibility** | **Key Behaviours**                                           |
 | :----------------- | ------------------------------------------------------------ |
-| **Code Fluency**   | I translate ideas into clear code, written to be read as well as executed<br/>My code is free of glaring errors - bugs are in edge cases or design, not mainline paths - and is well documented and well tested with appropriate use of manual vs automated tests<br/>I’m capable of reading and navigating functions and classes/modules that I didn’t write<br/>I am learning to tackle coding tasks with high throughput while maintaining appropriately high quality; I optimize for either speed or quality, depending on the explicitly stated needs of my team |
+| **Code Fluency**   | {::nomarkdown}<ul><li>I translate ideas into clear code, written to be read as well as executed<br /><li>My code is free of glaring errors - bugs are in edge cases or design, not mainline paths - and is well documented and well tested with appropriate use of manual vs automated tests<br /><li>I’m capable of reading and navigating functions and classes/modules that I didn’t write<br /><li>I am learning to tackle coding tasks with high throughput while maintaining appropriately high quality; I optimize for either speed or quality, depending on the explicitly stated needs of my team </li></ul>{:/}    |
