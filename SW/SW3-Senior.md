@@ -1,8 +1,10 @@
 ---
 layout: page
-title: SW3 - Senior Software Developer (level 3)
-shortTitle: SW3
+title: SW3 - Senior Software Developer
+id: SW3
 roleDescription: I independently identify and deliver software solutions through a set of milestones spanning a specific product focus or a multi-component system
+previous_page: SW2
+next_page: SW4
 ---
 
 |                  Extent of influence<br />                   |                        Autonomy<br />                        | Area of Ownership<br />                                      |

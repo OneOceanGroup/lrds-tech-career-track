@@ -1,8 +1,10 @@
 ---
 layout: page
-title: SW5 - Staff Software Developer (level 5)
-shortTitle: SW5
+title: SW5 - Staff Software Developer
+id: SW5
 roleDescription: I set the multi-year, multi-team technical strategy and deliver it through direct implementation or broad technical leadership
+previous_page: SW4
+next_page: SW6
 ---
 
 |                  Extent of influence<br />                   |                        Autonomy<br />                        | Area of Ownership<br />                                      |

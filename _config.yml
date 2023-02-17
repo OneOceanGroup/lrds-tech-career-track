@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: OneOcean Engineering Career Path
+title: Engineering Career Path
 email: support@oneocean.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Engineering Career Path Framework is your source for how to achieve impact for your role and team and how to grow in your engineering career. 
@@ -27,13 +27,24 @@ baseurl: "/lrds-tech-career-track" # the subpath of your site, e.g. /blog
 url: "http://oneoceangroup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+
 plugins:
   - jekyll-feed
 
 # Theme settings
-minima:
-  skin: dark
+sidebar:
+  - overview
+  - label: Software Developer (SW)
+    children:
+      - SW0
+      - SW1
+      - SW2
+      - SW3
+      - SW4
+      - SW5
+      - SW6
+      - SW7
 
 
 # server config options
