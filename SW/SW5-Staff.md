@@ -43,7 +43,7 @@ next_page: SW6
 | :------------------------ | :----------------------------------------------------------- |
 | **Collaboration**         | {::nomarkdown}<ul><li>I help break down silos within and across functions and influence others to reach the best outcome for LRDS<br/><li>I build deep cross-functional relationships, facilitate the right conversations, and settle disagreements by managing different viewpoints<br/><li>I disagree and commit when necessary to move critical priorities forward</li></ul>{:/} |
 | **Organizational health** | {::nomarkdown}<ul><li>I act as a partner to managers in setting the cultural tone for the team. I create an inclusive environment for others and ensure diverse perspectives are included<br/><li>Working with my manager, I leverage the strengths & skills of the members of my team, and help identify talent gaps required for team success<br/><li>I personify LRDS's culture and values. I champion community building efforts and inclusion initiatives. I work in close partnership with the management team to ensure a healthy engineering org. <br/><li>I lead by example. I am aware of my public presence and actions and my influence on the people around me and LRDS’s culture</li></ul>{:/} |
-| **Communication**         | {::nomarkdown}<ul><li>I tailor my message to my audience, presenting it clearly and concisely at the right altitude<br/><li>I fine tune my approach to getting buy-in and influencing stakeholders across a variety of audiences</li></ul>{:/} |
+| **Communication**         | {::nomarkdown}<ul><li>I tailor my message to my audience, presenting it clearly and concisely<br/><li>I fine tune my approach to getting buy-in and influencing stakeholders across a variety of audiences</li></ul>{:/} |
 
 ## ⌨️Craft
 
