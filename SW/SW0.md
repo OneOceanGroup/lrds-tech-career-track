@@ -30,7 +30,7 @@ next_page: SW1
 
 | **Responsibility**  | **Key Behaviours**                                                                                                                                        |
 | :------------------ |:----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Personal growth** | {::nomarkdown}<ul><li> I learn from my manager and peers, and from the feedback I get on my code. I work towards excellence in my work</li></ul>{:/}      |
+| **Personal growth** | {::nomarkdown}<ul><li> I learn from my tech lead and peers, and from the feedback I get on my code. I work towards excellence in my work</li></ul>{:/}      |
 | **Hiring**          | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                                                                                                                 |
 
 ## 🌳Culture
@@ -39,7 +39,7 @@ next_page: SW1
 | :------------------------ |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Collaboration**         | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                                                                                                                                                                                                                                                              |
 | **Organizational health** | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                                                                                                                                                                                                                                                              |
-| **Communication**         | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>To better formulate and illustrate questions, I make an effort to understand challenging tasks on my own before asking for support from my manager or peers</li></ul>{:/} |
+| **Communication**         | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>To better formulate and illustrate questions, I make an effort to understand challenging tasks on my own before asking for support from my tech lead or peers</li></ul>{:/} |
 
 ## ⌨️Craft
 
