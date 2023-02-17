@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Engineering Career Path
+version: Summer 2023
 email: support@oneocean.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Engineering Career Path Framework is your source for how to achieve impact for your role and team and how to grow in your engineering career. 
