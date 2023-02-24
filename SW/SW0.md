@@ -28,18 +28,18 @@ next_page: SW1
 
 ## 🌳Talent
 
-| **Responsibility**  | **Key Behaviours** |
-| :------------------ |:-------------------|
-| **Personal growth** | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                 |
-| **Hiring**          | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                 |
+| **Responsibility**  | **Key Behaviours**                                                                                                                                        |
+| :------------------ |:----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Personal growth** | {::nomarkdown}<ul><li> I learn from my tech lead and peers, and from the feedback I get on my code. I work towards excellence in my work</li></ul>{:/}      |
+| **Hiring**          | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                                                                                                                 |
 
 ## 🌳Culture
 
-| **Responsibility**        | **Key Behaviours**                        |
-| :------------------------ |:------------------------------------------|
-| **Collaboration**         | {::nomarkdown}<ul><li>TODO </li></ul>{:/} |
-| **Organizational health** | {::nomarkdown}<ul><li>TODO </li></ul>{:/} |
-| **Communication**         | {::nomarkdown}<ul><li>TODO </li></ul>{:/} |
+| **Responsibility**        | **Key Behaviours**                                                                                                                                                                                                                                                                                       |
+| :------------------------ |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Collaboration**         | {::nomarkdown}<ul><li>I am learning to effectively collaborate to get work done</ul>{:/}                                                                                                                                                                                                                 |
+| **Organizational health** | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                                                                                                                                                                                                                                                                |
+| **Communication**         | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>To better formulate and illustrate questions, I make an effort to understand challenging tasks on my own before asking for support from my tech lead or peers</li></ul>{:/} |
 
 ## ⌨️Craft
 
@@ -47,4 +47,4 @@ next_page: SW1
 
 | **Responsibility** | **Key Behaviours** |
 | :----------------- |--------------------|
-| **Code Fluency**   | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                |
+| **Code Fluency**   | {::nomarkdown}<ul><li>I translate ideas into clear code, written to be read as well as executed<br /><li>I'm capable of reading and navigating functions and classes/modules that I didn't write<br /><li>I test my code and changes thoroughly</li></ul>{:/}                |
