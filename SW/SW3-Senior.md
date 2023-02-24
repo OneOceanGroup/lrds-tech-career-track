@@ -27,7 +27,7 @@ next_page: SW4
 | :----------------- | :----------------------------------------------------------- |
 | **Agility**        | {::nomarkdown}<ul><li>I embrace change and adapt quickly to it<br/><li>I’m able to navigate ambiguity and remain resilient through ups and downs</li></ul>{:/} |
 | **Innovation**     | {::nomarkdown}<ul><li>I ask questions and contribute to new ideas/approaches<br/><li>I experiment with new approaches and share what I learned</li></ul>{:/} |
-| **Strategy**       | {::nomarkdown}<ul><li>I work collaboratively with my manager to set realistic and ambitious short- and long-term goals and break them down to smaller projects for my team or myself<br/><li>I execute the development roadmap for complex, multi-phase projects, possibly as a project tech lead</li></ul>{:/} |
+| **Strategy**       | {::nomarkdown}<ul><li>I work collaboratively with my PM/Lead/Architect to set realistic and ambitious short- and long-term goals and break them down to smaller projects for my team or myself<br/><li>I execute the development roadmap for complex, multi-phase projects, possibly as a project Squad lead</li></ul>{:/} |
 
 ## 🌳Talent
 

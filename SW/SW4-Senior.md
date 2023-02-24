@@ -27,7 +27,7 @@ next_page: SW5
 | :----------------- | :----------------------------------------------------------- |
 | **Agility**        | {::nomarkdown}<ul><li>I embrace change and adapt quickly to it<br/><li>I’m able to navigate ambiguity and remain resilient through ups and downs</li></ul>{:/} |
 | **Innovation**     | {::nomarkdown}<ul><li>I am beginning to push boundaries to generate and implement ideas that aim to drive our products and tools forward<br/><li>I set audacious goals, take risks, and share lessons learned</li></ul>{:/} |
-| **Strategy**       | {::nomarkdown}<ul><li>I define the technical roadmap for complex projects, refining it as the projects progress, and provide leadership for the people executing on the project<br/><li>I define my team's priorities and secure buy-in in partnership with my manager<br/><li>I generate excitement for my/the team's strategy</li></ul>{:/} |
+| **Strategy**       | {::nomarkdown}<ul><li>I define the technical roadmap for complex projects, refining it as the projects progress, and provide leadership for the people executing on the project<br/><li>I help my Squad Lead or PM defining my squad's priorities and secure buy-in.<br/><li>I generate excitement for my/the Squad's strategy</li></ul>{:/} |
 
 ## 🌳Talent
 
