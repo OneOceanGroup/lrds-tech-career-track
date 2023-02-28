@@ -30,12 +30,11 @@ next_page: SW2
 
 ## 🌳Talent
 
-| **Responsibility**  | **Key Behaviours**                                                                                                                                                                                                                                                                                                              |
-| :------------------ |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Personal growth** | {::nomarkdown}<ul><li>I share new ideas and can adapt my work when circumstances change</li></ul>{:/}                                                                                                                                                                                                                           |
-| **Hiring**          | {::nomarkdown}<ul><li>I am learning to interview and assess candidates to help us build a diverse and talented team. I consistently provide timely, detailed, and evidence-based interview feedback<br /><li>I am able to represent my team’s initiatives and goals to candidates in a compelling way</li></ul>{:/}     |
+| **Responsibility**  | **Key Behaviours**                                           |
+| :------------------ | :----------------------------------------------------------- |
+| **Personal growth** | {::nomarkdown}<ul><li>I share new ideas and can adapt my work when circumstances change<br /><li>I learn from my Squad lead and peers, and from the feedback I get on my code. I work towards excellence in my work</li></ul>{:/} |
 
-## 🌳Culture
+## 🤼Culture
 
 | **Responsibility**        | **Key Behaviours**                                                                                                                                                                                                                                                                                                       |
 | :------------------------ |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
