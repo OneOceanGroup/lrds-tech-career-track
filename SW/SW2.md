@@ -38,11 +38,11 @@ next_page: SW3
 
 ## 🤼Culture
 
-| **Responsibility**        | **Key Behaviours**                                                                                                                                                                                                                                                                                                                                                    |
-| :------------------------ |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Collaboration**         | {::nomarkdown}<ul><li>I am skilled at collaborating with others to get work done<br /><li>I work with my manager to manage conflict with empathy and cooperation in mind</li></ul>{:/}                                                                                                                                                                                |
-| **Organizational health** | {::nomarkdown}<ul><li>I contribute to a positive sense of community on the team (e.g. engage in team lunches, team offsites, and other group activities, help with new-hire on-boarding). <br/><li>I listen to different perspectives and I cut biases from my words and actions. <br/><li>I practice the LRDS Diversity Commitments on a regular basis</li></ul>{:/} |
-| **Communication**         | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br/><li>I share relevant information on my projects to my tech lead, team and customers</li></ul>{:/}                                                                                                                                             |
+| **Responsibility**        | **Key Behaviours**                                           |
+| :------------------------ | :----------------------------------------------------------- |
+| **Collaboration**         | {::nomarkdown}<ul><li>I am skilled at collaborating with others to get work done<br /><li>I work with my manager to manage conflict with empathy and cooperation in mind</li></ul>{:/} |
+| **Organizational health** | {::nomarkdown}<ul><li>I contribute to a positive sense of community on the team (e.g. engage in Tech Friday, team lunches, team gatherings, and other group activities, help with new-hire on-boarding). <br/><li>I listen to different perspectives and I cut biases from my words and actions. <br/></ul>{:/} |
+| **Communication**         | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br/><li>I share relevant information on my projects to my tech lead, team and customers</li></ul>{:/} |
 
 ## ⌨️Craft
 
