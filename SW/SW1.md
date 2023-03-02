@@ -36,10 +36,10 @@ next_page: SW2
 
 ## 🤼Culture
 
-| **Responsibility**        | **Key Behaviours**                                                                                                                                                                                                                                                                                                       |
-| :------------------------ |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Collaboration**         | {::nomarkdown}<ul><li>I can effectively collaborate to get work done<br /><li>I work with my manager to manage conflict with empathy in mind  </li></ul>{:/}                                                                                                                                                             |
-| **Organizational health** | {::nomarkdown}<ul><li>I listen to different perspectives and I remove biases from my words and actions<br /><li>I practice the LRDS Diversity Commitments on a regular basis   </li></ul>{:/}                                                                                                                            |
+| **Responsibility**        | **Key Behaviours**                                           |
+| :------------------------ | :----------------------------------------------------------- |
+| **Collaboration**         | {::nomarkdown}<ul><li>I can effectively collaborate to get work done<br /><li>I work with my manager to manage conflict with empathy in mind  </li></ul>{:/} |
+| **Organizational health** | {::nomarkdown}<ul><li>I listen to different perspectives and I remove biases from my words and actions</ul>{:/} |
 | **Communication**         | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>I share relevant information on my project including difficult task-level trade-offs that impact the product to my tech lead and team (including product/business partners). </li></ul>{:/} |
 
 ## ⌨️Craft

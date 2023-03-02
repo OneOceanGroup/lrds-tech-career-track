@@ -34,11 +34,10 @@ next_page: SW1
 
 ## 🤼Culture
 
-| **Responsibility**        | **Key Behaviours**                                                                                                                                                                                                                                                                                       |
-| :------------------------ |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Collaboration**         | {::nomarkdown}<ul><li>I am learning to effectively collaborate to get work done</ul>{:/}                                                                                                                                                                                                                 |
-| **Organizational health** | {::nomarkdown}<ul><li>TODO </li></ul>{:/}                                                                                                                                                                                                                                                                |
-| **Communication**         | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>To better formulate and illustrate questions, I make an effort to understand challenging tasks on my own before asking for support from my tech lead or peers</li></ul>{:/} |
+| **Responsibility** | **Key Behaviours**                                           |
+| :----------------- | :----------------------------------------------------------- |
+| **Collaboration**  | {::nomarkdown}<ul><li>I am learning to effectively collaborate to get work done</ul>{:/} |
+| **Communication**  | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>To better formulate and illustrate questions, I make an effort to understand challenging tasks on my own before asking for support from my tech lead or peers</li></ul>{:/} |
 
 ## ⌨️Craft
 
