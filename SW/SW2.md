@@ -46,7 +46,7 @@ next_page: SW3
 
 ## ⌨️Craft
 
-*My primary craft focus is on learning the fundamentals of reading and writing code within a large, long-lived codebase, gaining familiarity with the technologies in my area of work, and learning to work against plans and schedules.*
+*My primary craft focus is consistently delivering high-quality code. I am beginning to develop skills in designing software components and translating product or business requirements into simple projects.*
 
 | **Responsibility**      | **Key Behaviours**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |:------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

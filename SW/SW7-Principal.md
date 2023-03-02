@@ -46,11 +46,11 @@ previous_page: SW6
 
 ## ⌨️Craft
 
-Like Staff Engineers and Principal Engineers, I have a well-rounded set of technical skills and development methodologies, and apply them with a sophisticated approach that is best suited for each project. The primary craft difference between Principal Engineers and Senior Principal Engineers is the scope at which their work applies.
+Like Staff Engineers and Partner Engineers, I have a well-rounded set of technical skills and development methodologies, and apply them with a sophisticated approach that is best suited for each project. The primary craft difference between Partner Engineers and Principal Engineers is the scope at which their work applies.
 
-| **Responsibility**      | **Key Behaviours**                                                                                                                                                                                                                                                                                              |
-|:------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Code fluency**        | {::nomarkdown}<ul><li>The expectations for code fluency do not go up beyond L3 (though some specialist engineers may go deep in this area)  </li></ul>{:/}                                                                                                                                                                                          |
-| **Software design**     | {::nomarkdown}<ul><li>The expectations for software design do not go up beyond L5  </li></ul>{:/}                                                                                                                                                                                                                                                   |
-| **Architecture design** | {::nomarkdown}<ul><li>The expectations for architecture design do not go up beyond L6 </li></ul>{:/}|
-| **Technical strategy**  | {::nomarkdown}<ul><li>The expectations for technical strategy do not currently go up beyond L6 but we expect this to change over time as we have more examples of principal engineers working in this area </li></ul>{:/}                   |
+| **Responsibility**      | **Key Behaviours**                                           |
+| :---------------------- | ------------------------------------------------------------ |
+| **Code fluency**        | {::nomarkdown}<ul><li>*The expectations for code fluency do not go up beyond **Senior level (SW3)*** (though some specialist engineers may go deep in this area)  </li></ul>{:/} |
+| **Software design**     | {::nomarkdown}<ul><li>*The expectations for software design do not go up beyond **Staff level***</li></ul>{:/} |
+| **Architecture design** | {::nomarkdown}<ul><li>*The expectations for architecture design do not go up beyond **Partner level***</li></ul>{:/} |
+| **Technical strategy**  | {::nomarkdown}<ul><li>The expectations for technical strategy do not currently go up beyond **Partner Level** but the scope at which it applies is broader.</li></ul>{:/} |
