@@ -14,11 +14,11 @@ next_page: SW1
 
 ## 🏆Results
 
-| **Responsibility**  | **Key Behaviours** |
-| :------------------- |:-------------------|
-| **Impact**| {::nomarkdown}<ul><li>I work with my mentor to prioritize tasks that add the most value for my progression while delivering results for my product</li></ul>{:/} |
-| **Ownership**| {::nomarkdown}<ul><li>I follow through on my Internship project, leanr to take responsibility for my work, and deliver my project on time<br /><li>I ask questions to clarify expectations<br /><li>I own my failures and learn from them</li></ul>{:/} |
-| **Decision Making**| {::nomarkdown}<ul><li> I escalate to my Lead when I get stuck and reflect on ways that I can improve from my mistakes </li></ul>{:/} |
+| **Responsibility**  | **Key Behaviours**                                                                                                                                                                                                                                      |
+| :------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Impact**| {::nomarkdown}<ul><li>I work with my mentor to prioritize tasks that add the most value for my progression while delivering results for my product</li></ul>{:/}                                                                                        |
+| **Ownership**| {::nomarkdown}<ul><li>I follow through on my Internship project, learn to take responsibility for my work, and deliver my project on time<br /><li>I ask questions to clarify expectations<br /><li>I own my failures and learn from them</li></ul>{:/} |
+| **Decision Making**| {::nomarkdown}<ul><li> I escalate to my Lead when I get stuck and reflect on ways that I can improve from my mistakes </li></ul>{:/}                                                                                                                    |
 
 ## 🌟Direction
 
@@ -28,16 +28,16 @@ next_page: SW1
 
 ## 🌳Talent
 
-| **Responsibility**  | **Key Behaviours**                                           |
-| :------------------ | :----------------------------------------------------------- |
-| **Personal growth** | {::nomarkdown}<ul><li> I learn from my Squad lead and peers, and from the feedback I get on my code. I work towards excellence in my work</li></ul>{:/} |
+| **Responsibility**  | **Key Behaviours**                                                                                                                                      |
+| :------------------ |:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Personal growth** | {::nomarkdown}<ul><li> I learn from my Squad Lead and peers, and from the feedback I get on my code. I work towards excellence in my work</li></ul>{:/} |
 
 ## 🤼Culture
 
-| **Responsibility** | **Key Behaviours**                                           |
-| :----------------- | :----------------------------------------------------------- |
-| **Collaboration**  | {::nomarkdown}<ul><li>I am learning to effectively collaborate to get work done</ul>{:/} |
-| **Communication**  | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>To better formulate and illustrate questions, I make an effort to understand challenging tasks on my own before asking for support from my tech lead or peers</li></ul>{:/} |
+| **Responsibility** | **Key Behaviours**                                                                                                                                                                                                                                                                                       |
+| :----------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Collaboration**  | {::nomarkdown}<ul><li>I am learning to effectively collaborate to get work done</ul>{:/}                                                                                                                                                                                                                 |
+| **Communication**  | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>To better formulate and illustrate questions, I make an effort to understand challenging tasks on my own before asking for support from my Tech Lead or peers</li></ul>{:/} |
 
 ## ⌨️Craft
 

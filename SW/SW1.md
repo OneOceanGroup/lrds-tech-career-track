@@ -7,20 +7,20 @@ previous_page: SW0
 next_page: SW2
 ---
 
-|                  Extent of influence<br />                   |                        Autonomy<br />                        | Area of Ownership<br />                                      |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| <img src="./../assets/Influence.png" alt="influence" style="height: 200px; align: center" /> | <img src="./../assets/Autonomy.png" alt="Autonomy" style="height: 200px; display: inline;" /> | <img src="./../assets/Ownership.png" alt="ownership" style="height: 200px; align: center" /> |
-|         **Business impact and organizational reach**         |    **What level of autonomy is expected for that level**     | **Technical or organizational levers the individual can exercise there ownership to achieve business impact** |
-| ![extent1](./..\assets\level1\extent1.png)<br /><br />I work within the scope of my squad and my own professional progression. | <img src="./../assets/level1/Autonomy_1.png" style="max-width: 70%; margin-bottom: 20%; display: inline;" alt="Autonomy_1" /> | **<span class="oo-badge oo-gd-blue">Craft</span>**<br />Learning and Improving<br />**<span class="oo-badge oo-gd-yellow">Technical Strategy</span>**<br />I learn about my team’s technical strategy and get familiar with the tools and the vision<br />**<span class="oo-badge oo-gd-red">Project Leadership</span>**<br />I'm participating in my teams's project and I contribute when I feel comfortable<br />**<span class="oo-badge oo-gd-green">Innovation</span>**<br />I bring ideas that I have to more seniors members of the team and I am leveraging my craft to unleash them (ex. Friday afternoons)<br />**<span class="oo-badge oo-gd-orange">Mentoring</span>**<br />I sometimes unblock teammates and help as best as I can<br />**<span class="oo-badge oo-gd-grey">Product/Domain expertise</span>**<br />I explore and I’m curious |
-|                                                              |                                                              |                                                              |
+|                                                   Extent of influence<br />                                                    |                        Autonomy<br />                        | Area of Ownership<br />                                      |
+|:------------------------------------------------------------------------------------------------------------------------------:| :----------------------------------------------------------: | ------------------------------------------------------------ |
+|                  <img src="./../assets/Influence.png" alt="influence" style="height: 200px; align: center" />                  | <img src="./../assets/Autonomy.png" alt="Autonomy" style="height: 200px; display: inline;" /> | <img src="./../assets/Ownership.png" alt="ownership" style="height: 200px; align: center" /> |
+|                                          **Business impact and organizational reach**                                          |    **What level of autonomy is expected for that level**     | **Technical or organizational levers the individual can exercise there ownership to achieve business impact** |
+| ![extent1](./..\assets\level1\extent1.png)<br /><br />I work within the scope of my Squad and my own professional progression. | <img src="./../assets/level1/Autonomy_1.png" style="max-width: 70%; margin-bottom: 20%; display: inline;" alt="Autonomy_1" /> | **<span class="oo-badge oo-gd-blue">Craft</span>**<br />Learning and Improving<br />**<span class="oo-badge oo-gd-yellow">Technical Strategy</span>**<br />I learn about my team’s technical strategy and get familiar with the tools and the vision<br />**<span class="oo-badge oo-gd-red">Project Leadership</span>**<br />I'm participating in my teams's project and I contribute when I feel comfortable<br />**<span class="oo-badge oo-gd-green">Innovation</span>**<br />I bring ideas that I have to more seniors members of the team and I am leveraging my craft to unleash them (ex. Friday afternoons)<br />**<span class="oo-badge oo-gd-orange">Mentoring</span>**<br />I sometimes unblock teammates and help as best as I can<br />**<span class="oo-badge oo-gd-grey">Product/Domain expertise</span>**<br />I explore and I’m curious |
+|                                                                                                                                |                                                              |                                                              |
 
 ## 🏆Results
 
-| **Responsibility**  | **Key Behaviours**                                                                                                                                                                                                                                                                                 |
-| :------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Impact**| {::nomarkdown}<ul><li>I work with my Tech Lead to prioritize tasks that add the most value and deliver high-quality results for my product<br /><li>I understand and effectively participate in the core agile processes and ceremonies of my squad.</li></ul>{:/} |
-| **Ownership**       | {::nomarkdown}<ul><li>I follow through on my commitments, take responsibility for my work, and deliver my work on time <br /><li> I ask questions to clarify expectations I own my failures and learn from them</li></ul>{:/} |
-| **Decision Making**| {::nomarkdown}<ul><li> I escalate to my Lead when I get stuck and reflect on ways that I can improve from my mistakes </li></ul>{:/}                                                                                                                                                          |
+| **Responsibility**  | **Key Behaviours**                                                                                                                                                                                                                                                |
+| :------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Impact**| {::nomarkdown}<ul><li>I work with my Tech Lead to prioritize tasks that add the most value and deliver high-quality results for my product<br /><li>I understand and effectively participate in the core agile processes and ceremonies of my Squad</li></ul>{:/} |
+| **Ownership**       | {::nomarkdown}<ul><li>I follow through on my commitments, take responsibility for my work, and deliver my work on time <br /><li> I ask questions to clarify expectations I own my failures and learn from them</li></ul>{:/}                                     |
+| **Decision Making**| {::nomarkdown}<ul><li> I escalate to my Lead when I get stuck and reflect on ways that I can improve from my mistakes </li></ul>{:/}                                                                                                                              |
 
 ## 🌟Direction
 
@@ -30,17 +30,17 @@ next_page: SW2
 
 ## 🌳Talent
 
-| **Responsibility**  | **Key Behaviours**                                           |
-| :------------------ | :----------------------------------------------------------- |
-| **Personal growth** | {::nomarkdown}<ul><li>I share new ideas and can adapt my work when circumstances change<br /><li>I learn from my Squad lead and peers, and from the feedback I get on my code. I work towards excellence in my work</li></ul>{:/} |
+| **Responsibility**  | **Key Behaviours**                                                                                                                                                                                                                         |
+| :------------------ |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Personal growth** | {::nomarkdown}<ul><li>I share new ideas and can adapt my work when circumstances change<br /><li>I learn from my Squad Lead and peers, and from the feedback I get on my code <br /><li>I work towards excellence in my work</li></ul>{:/} |
 
 ## 🤼Culture
 
-| **Responsibility**        | **Key Behaviours**                                           |
-| :------------------------ | :----------------------------------------------------------- |
-| **Collaboration**         | {::nomarkdown}<ul><li>I can effectively collaborate to get work done<br /><li>I work with my manager to manage conflict with empathy in mind  </li></ul>{:/} |
-| **Organizational health** | {::nomarkdown}<ul><li>I listen to different perspectives and I remove biases from my words and actions</ul>{:/} |
-| **Communication**         | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>I share relevant information on my project including difficult task-level trade-offs that impact the product to my tech lead and team (including product/business partners). </li></ul>{:/} |
+| **Responsibility**        | **Key Behaviours**                                                                                                                                                                                                                                                                                                      |
+| :------------------------ |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Collaboration**         | {::nomarkdown}<ul><li>I can effectively collaborate to get work done<br /><li>I work with my manager to manage conflict with empathy in mind  </li></ul>{:/}                                                                                                                                                            |
+| **Organizational health** | {::nomarkdown}<ul><li>I listen to different perspectives and I remove biases from my words and actions</ul>{:/}                                                                                                                                                                                                         |
+| **Communication**         | {::nomarkdown}<ul><li>I write and speak clearly<br /><li>I listen to understand others and ask clarifying questions<br /><li>I share relevant information on my project including difficult task-level trade-offs that impact the product to my Tech Lead and team (including product/business partners) </li></ul>{:/} |
 
 ## ⌨️Craft
 
